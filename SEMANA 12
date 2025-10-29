@@ -1,0 +1,11 @@
+¿ Qué significa O(n)?
+Significa que el tiempo de ejecución crece de manera lineal con el tamaño de la entrada.
+
+¿ Cómo se calcula  la complejidad temporal de un algoritmo?
+Se calcula analizando como el tiempo de ejecución del algoritmo crece en función del tamaño de entrada.
+
+¿ Qué es búsqueda binaria?
+Es un algoritmo para encontrar un elemento en una lista ordenada. Funciona dividiendo repetidamente  
+la lista ordenada en dos, eliminando la mitad de los elementos en cada paso hasta que el elemento deseado
+es encontrado o se determina que no está en la lista. La búsqueda binaria es eficiente en listas grandes 
+que están ordenadas.
